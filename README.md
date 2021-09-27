@@ -1,25 +1,21 @@
-# nobelprize
-follow the step for the execution of the code
+follow the steps for the execution 
 
+git clone the repository or simply download 
 
-git clone your-destination-folder
+open it in your IDE
 
+now in the terminal change directory cd nobel_prize
 
-now open the terminal and run the following instructions:
+now run npm install for installing all dependencies 
 
-cd your-destination-folder
+After installation run node nobel.js
 
-npm install # installing the dependencies
+now the server will be started on port 3000
 
-npm start # or 'node .'
+open your browser and go to localhost:3000
 
-now to run the following code run this command on terminal
+this will open the html page with inputs
 
-node nobel.js
+enter the input(remainder that this case sensitive so a small letter in place of capital letter will not give you the correct output).
 
-
-now server gets started inside the terminal
-
-And after that copy the path of html file and then open any browser paste the path of the html file
-
-now finally nobel prize webpage opens up and then you can working on it.
+you will get the output
